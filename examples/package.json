@@ -1,0 +1,9 @@
+{
+  "name": "mysparkbot",
+  "version": "1.0.0",
+  "description": "working with spark bot in cisco spark",
+  "main": "sample.js",
+  "dependencies": {
+    "mongoose": "^4.4.17"
+  }
+}

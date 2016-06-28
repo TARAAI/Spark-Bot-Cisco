@@ -1,0 +1,15 @@
+{
+  "name": "sparkbot",
+  "version": "0.0.0",
+  "author": "Peter <peter89121@hotmail.com>",
+  "description": "bot for Cisco Spark using Node js",
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/Gradberry/sparkbot.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  }
+}
