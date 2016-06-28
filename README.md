@@ -9,11 +9,11 @@ curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
 
-After installing Node.js we need to obtain the Sparkbot source code. Code for Sparkbot can be obtained from [github repository](https://github.com/TARAAI/Cisco-Spark-Bot) or cloned through Git. Sample code can be found under the /sparkbot/examples folder.
+After installing Node.js we need to obtain the Sparkbot source code. Code for Sparkbot can be obtained from [github repository](https://github.com/TARAAI/Spark-Bot-Cisco) or cloned through Git. Sample code can be found under the /sparkbot/examples folder.
 
 ```
 bash
-git clone http://github.com/Gradberry/sparkbot.git
+git clone https://github.com/TARAAI/Spark-Bot-Cisco.git
 cd sparkbot
 cd examples
 ```
