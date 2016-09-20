@@ -9,8 +9,9 @@ var SparkBot = require("../lib");
 var config = {
   /// Cisco Spark API token, note that it is mandatory for webhooks to decode new messages
   //token: 'MzAyZjNkZWMtN2FiZi00N2ZlLWFmNDgtZDYxODQ0MThiNjY0ODJiZDI4ODUtMTY1',
-  token: 'Y2YxNzE3YWEtY2NiYi00NjkwLWI1NmMtZDBiODE1NDVhMDgzZDliNTE1OTEtNTk3',
+  token: 'NmUyZGZlOTQtYjQ1ZS00NGYzLWFmOGMtY2ViZDRiOTBlOTUyYjIzYzQ5MzYtMGM1',
   port: 8888,
+  //domain:'http://localhost',
   domain:'http://sparkbotvm.westus.cloudapp.azure.com',
   URI: "/webhook"
 };
