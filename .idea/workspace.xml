@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45a787d6-d2e2-4c9f-bbd6-b0ffa2a2267b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/sample.js" afterPath="$PROJECT_DIR$/examples/sample.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/samplenew.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Spark-Bot-Cisco.iws" />
@@ -34,14 +34,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sample.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sample.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/sample.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5345912">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state vertical-scroll-proportion="-10.074074">
+              <caret line="16" column="2" selection-start-line="8" selection-start-column="0" selection-end-line="16" selection-end-column="2" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="samplenew.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examples/samplenew.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.37103173">
+              <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,6 +65,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/examples/sample.js" />
+        <option value="$PROJECT_DIR$/examples/samplenew.js" />
       </list>
     </option>
   </component>
@@ -78,7 +89,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -136,6 +147,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Documents\GitHub\Spark-Bot-Cisco\examples" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
@@ -222,11 +238,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/sample.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5345912">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state vertical-scroll-proportion="-10.074074">
+          <caret line="16" column="2" selection-start-line="8" selection-start-column="0" selection-end-line="16" selection-end-column="2" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/samplenew.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37103173">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
